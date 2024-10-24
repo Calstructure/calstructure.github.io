@@ -1,2 +1,1 @@
-I am trying to learn html and css
-This is my first html/css prject, and I don't know what I am doing
+This is my first actual html/css project, and I'm using this website as a way to learn and practice.
